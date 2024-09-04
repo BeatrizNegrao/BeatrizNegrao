@@ -6,7 +6,7 @@
     <span>Beatriz Negrão</span>
 </h1>
 
-<p align="justify"> I am a student of Analysis Systems and Development at Facens in 3th semester. My passion for innovation is reflected in my dedicated to learning about technologies.
+<p align="justify"> I am a student of Systems Analysis and Development at Facens in 3th semester. My passion for innovation is reflected in my dedicated to learning about technologies.
 <br>
   
 ##
